@@ -1,0 +1,9 @@
+﻿#Aplicar filtro suave
+#IMG imagen
+#DIR  = Directorio de salida
+#Forzosos
+--IMG /media/Archivos/miguel/Imágenes/Test/rotar.png
+--DIR /media/Archivos/miguel/Imágenes/Test/filtro.png
+
+-IMG C:\temp\\vacio.png
+-DIR C:\temp\\vacioS.png

@@ -1,0 +1,3 @@
+#NOTA
+Los filtros no modifican la geometría de una imagen.
+La diferencia principal entre un filtro y una operación aritmética de una imagen es que generalmente los filtros usan más de un pixel de la imagen para poder crear un nuevo pixel.
